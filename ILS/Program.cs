@@ -22,7 +22,7 @@ string targetDir = @"";
 
 	if (lister.TargetDir == "")
 	{
-		String str = "ils.exe 指定したフォルダのファイル攻勢をJSON形式で変えす";
+		String str = "ils.exe 指定したフォルダの画像ファイル構成をJSON形式で出力";
 		Console.WriteLine(str);
 	}
 	else {
