@@ -1,4 +1,6 @@
-﻿using ILS;
+﻿using System;
+using System.IO;
+using ILS;
 /*
  * 	//jsonを使うおまじない
 	var json_file = new File(Folder.appPackage.fsName + '/Libraries/jsx/json2.jsx');
