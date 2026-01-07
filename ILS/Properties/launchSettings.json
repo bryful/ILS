@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ILS": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\FuruWork\\neo\\NEOM04_007_ok\""
+    }
+  }
+}
